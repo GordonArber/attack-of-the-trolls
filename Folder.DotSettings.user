@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0afbfb52_002Dad8e_002D4aa0_002D961e_002D304505b28509/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Default_for_guest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Default_for_guest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Permissions_read_write_can_be_combined_as_flags&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Default_for_user&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Default_for_moderator&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Default_for_unknown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Combining_none_delete_permissions_is_same_as_delete_permission&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Combining_read_write_delete_permissions_is_same_as_all_permission&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Grant_read_to_none&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Grant_read_to_read&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Grant_all_to_none&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Grant_delete_to_read_and_write&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Grant_read_and_write_to_none&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Revoke_none_from_read&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests.Revoke_write_from_write&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cae4cc50_002D2686_002D48b0_002Dad0f_002Df04ee8554937/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Revoke_delete_from_all" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D3C54349-DA42-9C86-BDBD-6C0BD605F957::net5.0::AttackOfTheTrollsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
